@@ -26,6 +26,13 @@ public class A {
 	{
 		System.out.println(c+a);
 	}
+	
+	// 5
+//  cannot make this 
+//	public int add(char a, int c)
+//	{
+//		return a+c;
+//	}
 
 	public static void main(String[] args) {
 		
